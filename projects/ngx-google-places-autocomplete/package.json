@@ -1,5 +1,5 @@
 {
-  "name": "ngx-google-places-autocomplete",
+  "name": "@yuvarajv/ngx-google-places-autocomplete",
   "version": "0.0.1",
   "peerDependencies": {
     "@angular/common": "^13.3.0",
