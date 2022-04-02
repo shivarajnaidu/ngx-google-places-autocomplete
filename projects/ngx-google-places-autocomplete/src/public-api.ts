@@ -3,5 +3,5 @@
  */
 
 export * from './lib/ngx-google-places-autocomplete.service';
-export * from './lib/ngx-google-places-autocomplete.component';
+export * from './lib/ngx-google-places-autocomplete.directive';
 export * from './lib/ngx-google-places-autocomplete.module';

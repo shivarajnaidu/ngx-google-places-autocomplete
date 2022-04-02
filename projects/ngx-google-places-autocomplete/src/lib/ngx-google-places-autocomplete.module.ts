@@ -1,16 +1,14 @@
 import { NgModule } from '@angular/core';
-import { NgxGooglePlacesAutocompleteComponent } from './ngx-google-places-autocomplete.component';
+import { NgxGooglePlacesAutocompleteDirective } from './ngx-google-places-autocomplete.directive';
 
 
 
 @NgModule({
   declarations: [
-    NgxGooglePlacesAutocompleteComponent
-  ],
-  imports: [
+    NgxGooglePlacesAutocompleteDirective
   ],
   exports: [
-    NgxGooglePlacesAutocompleteComponent
+    NgxGooglePlacesAutocompleteDirective
   ]
 })
 export class NgxGooglePlacesAutocompleteModule { }
