@@ -11,6 +11,12 @@
     "noImplicitReturns": true,
     "noFallthroughCasesInSwitch": true,
     "sourceMap": true,
+    "paths": {
+      "ngx-google-places-autocomplete": [
+        "dist/ngx-google-places-autocomplete/ngx-google-places-autocomplete",
+        "dist/ngx-google-places-autocomplete"
+      ]
+    },
     "declaration": false,
     "downlevelIteration": true,
     "experimentalDecorators": true,
