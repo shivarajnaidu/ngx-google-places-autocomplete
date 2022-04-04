@@ -1,6 +1,6 @@
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
-import { NgxGooglePlacesAutocompleteModule } from 'ngx-google-places-autocomplete';
+import { GooglePlaceModule } from 'ngx-google-places-autocomplete';
 
 import { AppComponent } from './app.component';
 
@@ -10,7 +10,7 @@ import { AppComponent } from './app.component';
   ],
   imports: [
     BrowserModule,
-    NgxGooglePlacesAutocompleteModule
+    GooglePlaceModule
   ],
   providers: [],
   bootstrap: [AppComponent]

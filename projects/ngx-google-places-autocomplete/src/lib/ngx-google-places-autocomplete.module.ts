@@ -11,4 +11,4 @@ import { NgxGooglePlacesAutocompleteDirective } from './ngx-google-places-autoco
     NgxGooglePlacesAutocompleteDirective
   ]
 })
-export class NgxGooglePlacesAutocompleteModule { }
+export class GooglePlaceModule { }
