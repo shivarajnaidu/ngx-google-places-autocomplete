@@ -1,10 +1,19 @@
 {
   "name": "@yuvarajv/ngx-google-places-autocomplete",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "peerDependencies": {
     "@angular/common": "^13.3.0",
     "@angular/core": "^13.3.0"
   },
+  "private": false,
+  "keywords": [
+    "angular",
+    "google maps",
+    "google places",
+    "angular 13"
+  ],
+  "author": "Yuvaraj V",
+  "license": "MIT",
   "dependencies": {
     "tslib": "^2.3.0"
   }
